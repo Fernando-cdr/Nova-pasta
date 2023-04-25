@@ -1,0 +1,27 @@
+.main{
+    text-align: center;
+}
+
+.pagina{
+    display:none
+}
+
+.active{
+    display: block;
+}
+
+nav{
+    bottom: 0!important;
+    position: fixed!important;
+}
+
+img{
+    border-radius: 50px;
+}
+
+h2{
+    margin-bottom: 20px;
+}
+body{
+    background-color: rgb(250, 250, 250);
+}
